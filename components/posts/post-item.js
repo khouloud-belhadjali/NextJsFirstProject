@@ -17,7 +17,7 @@ function PostItem(props){
         <li className={classes.post}>
             <Link href={linkPath} legacyBehavior>
                 <a>
-                    <div classNAme={classes.image}>
+                    <div className={classes.image}>
                         <Image 
                         src={imagePath} 
                         alt={title} 
