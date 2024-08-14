@@ -58,7 +58,7 @@ function ContactForm() {
                     required
                     value={enteredMessage} 
                     onChange={(event) => setEnteredMessage(event.target.value)}
-                    > </textarea>
+                    />
                 </div>
                 <div className={classes.actions}>
                     <button>Send Message</button>
