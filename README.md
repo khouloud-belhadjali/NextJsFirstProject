@@ -1,12 +1,3 @@
-## Getting Started
-First, run the development server:
-
-```bash
-npm run dev
-# to install all dependencies
-npm install
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-```
 ## Project Overview
 This blog project is developed with NextJs, and we've added a variety of features to enhance its functionality:
 
@@ -26,3 +17,14 @@ This blog project is developed with NextJs, and we've added a variety of feature
 *  The data for posts is extracted from these Markdown files.
 *  An API route to handle contact form submissions, storing messages in a database.
 
+
+## Getting Started
+First, run the development server:
+
+```bash
+npm run dev
+# to install all dependencies
+npm install
+
+# Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
